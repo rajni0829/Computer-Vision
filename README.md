@@ -20,6 +20,7 @@ I've taken both the statements into consideration and tried implementing as per 
 
 
 References :  
+https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
 https://machinelearningmastery.com/object-recognition-with-deep-learning/  
 https://youtu.be/irHhDMbw3xo  
 https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/  
