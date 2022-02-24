@@ -6,8 +6,7 @@ Problem Statement: Given a video, figure out frames of interest & categories app
 ## TASK-II: 
 Given an image, detect objects in the frame & predict their category class.  
 Since we're free to use any dataset,there exists 2 Problem Statements.   
-- Approach-I : Where we can pre-process image, train dataset for multiple images and pass on a test image from Test Dataset which has single object and can predict to which class it belongs.
-
+- Approach-I : Where we can pre-process image, train dataset for multiple images and pass on a test image from Test Dataset which has single object and can predict to which class it belongs.      
 **Tech Stack Used**  
 -> Model: VGG16 – Convolutional Network for Classification and Detection   
 -> Packages: Numpy, PIL, MatplotLib, Pandas, Keras, Tensorflow  
