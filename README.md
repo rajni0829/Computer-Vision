@@ -16,22 +16,19 @@ Since we're free to use any dataset, I've divided this section in 2 Methods.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Image of objects](/TASK-1/Method-1/Road_Traffic.gif)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Image of objects](/TASK-1/Method-1/DancingCat.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Image of objects](/TASK-1/Method-1/DancingCat.gif)   
+I've taken both the statements into consideration and tried implementing as per my understanding.  
 
 
 ## TASK-II: 
 Given an image, detect objects in the frame & predict their category class.  
-- Approach-I : Where we can pre-process image, train dataset for multiple images and pass on an image from Test Dataset which has single object and can predict, to which class the object belongs.      
+Dataset has been splitted into training, testing and the image is pre-processed, trained for multiple images,then the image is passed on from Test Dataset which has single object and class of object can be predicted.   
 
 
-- Approach-II : We have a data(where there's an image containing multiple objects) and we need to detect what are these objects from a single frame and to which class each belong.  
-
-I've taken both the statements into consideration and tried implementing as per my understanding.
-
-**Tech Stack Used :**  
---> Model: VGG16 – Convolutional Neural Network, OpenCv   
---> Packages: Numpy, Glob, OpenCv, Ftp, MatplotLib, Keras, Tensorflow  
---> Dataset: https://drive.google.com/file/d/15exOnwxii9NlPRxrkW03AFkncAmvNRnf/view?usp=sharing 
+**Tech Stack Used :**   
+--> Model: VGG16 – Convolutional Neural Network, OpenCv    
+--> Packages: Numpy, Glob, OpenCv, Ftp, MatplotLib, Keras, Tensorflow   
+--> Dataset: https://drive.google.com/file/d/15exOnwxii9NlPRxrkW03AFkncAmvNRnf/view?usp=sharing   
 
 
 References :  
