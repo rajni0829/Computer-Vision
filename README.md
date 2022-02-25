@@ -1,16 +1,23 @@
 _**Consider Only Fisrt 2 files as Completed**_
-## TASK-I: 
-Problem Statement: Given a video, figure out frames of interest & categories appearing in that micro-batch segment.  
-**Tech Stack Used :**  
---> Model: OpenCv  
---> Packages: Numpy, Glob, OpenCv, Ftp, MatplotLib, Keras, Tensorflow  
---> Dataset: https://drive.google.com/file/d/15exOnwxii9NlPRxrkW03AFkncAmvNRnf/view?usp=sharing  
 
-Here, I'm taking a video as the i/p and after running the file, a folder named Extracted_Pics is created and snapshots taken from Video is saved. Additionally, Part-II does the naming of the objects detected in the video.  
+## TASK-I: 
+_Problem Statement: Given a video, figure out frames of interest & categories appearing in that micro-batch segment._  
+Since we're free to use any dataset, I've divided this section in 2 Methods.  
+ 
+- **Method - I** :  If we're asked to detect Frames and recognize the object class.     
+-->  It uses Detection Model of OpenCV and displays the frame and name of Object in the Video.  
+-->  Input Data:  Any picture, gif or Video. (Road_Traffic.gif/ Food Chain.mp4)  
+-->  Output: Frame and Name of Object while playing the Video.    
+
+- **Method - II** : If we'are given with a video data and asked to detect the Objects in the frame.   
+--> This method will simply take snapshots from the video.  
+--> Input Data: I'm taking a random video as the input file (Food_chain.mp4)  
+--> Output: After running the given code, a folder named Extracted_Pics is created and snapshots taken from Video at every 5ms is saved.  
+
+
 
 ## TASK-II: 
 Given an image, detect objects in the frame & predict their category class.  
-Since we're free to use any dataset,there exists 2 Problem Statements.   
 - Approach-I : Where we can pre-process image, train dataset for multiple images and pass on an image from Test Dataset which has single object and can predict, to which class the object belongs.      
 **Tech Stack Used:**  
 --> Model: VGG16 – Convolutional Neural Network  
@@ -22,6 +29,10 @@ Since we're free to use any dataset,there exists 2 Problem Statements.
 
 I've taken both the statements into consideration and tried implementing as per my understanding.
 
+**Tech Stack Used :**  
+--> Model: OpenCv  
+--> Packages: Numpy, Glob, OpenCv, Ftp, MatplotLib, Keras, Tensorflow  
+--> Dataset: https://drive.google.com/file/d/15exOnwxii9NlPRxrkW03AFkncAmvNRnf/view?usp=sharing 
 
 
 References :  
