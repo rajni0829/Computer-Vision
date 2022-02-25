@@ -14,7 +14,9 @@ Since we're free to use any dataset, I've divided this section in 2 Methods.
 &nbsp;&nbsp; --> Input Data: I'm taking a random video as the input file (Food_chain.mp4).    
 &nbsp;&nbsp; --> Output: After running the given code, a folder named Extracted_Pics is created and snapshots taken from Video at every 5ms is saved.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Image of objects](/TASK-1/Method-1/Road_Traffic.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Image of objects](/TASK-1/Method-1/Road_Traffic.gif)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Image of objects](/TASK-1/Method-1/DancingCat.gif)
 
 
 ## TASK-II: 
@@ -23,7 +25,6 @@ Given an image, detect objects in the frame & predict their category class.
 
 
 - Approach-II : We have a data(where there's an image containing multiple objects) and we need to detect what are these objects from a single frame and to which class each belong.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Image of objects](/TASK-1/Method-1/DancingCat.gif)
 
 I've taken both the statements into consideration and tried implementing as per my understanding.
 
