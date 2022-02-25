@@ -5,14 +5,14 @@ _Problem Statement: Given a video, figure out frames of interest & categories ap
 Since we're free to use any dataset, I've divided this section in 2 Methods.  
  
 - **Method - I** :  If we're asked to detect Frames and recognize the object class.     
--->  It uses Detection Model of OpenCV and displays the frame and name of Object in the Video.  
--->  Input Data:  Any picture, gif or Video. (Road_Traffic.gif/ Food Chain.mp4)  
--->  Output: Frame and Name of Object while playing the Video.    
+&nbsp;&nbsp; -->  It uses Detection Model of OpenCV and displays the frame and name of Object in the Video.  
+&nbsp;&nbsp; -->  Input Data:  Any picture, gif or Video (Road_Traffic.gif/ Food Chain.mp4).    
+&nbsp;&nbsp; -->  Output: Frame and Name of Object while playing the Video.    
 
 - **Method - II** : If we'are given with a video data and asked to detect the Objects in the frame.   
---> This method will simply take snapshots from the video.  
---> Input Data: I'm taking a random video as the input file (Food_chain.mp4)  
---> Output: After running the given code, a folder named Extracted_Pics is created and snapshots taken from Video at every 5ms is saved.  
+&nbsp;&nbsp; --> This method will simply take snapshots from the video.  
+&nbsp;&nbsp; --> Input Data: I'm taking a random video as the input file (Food_chain.mp4).    
+&nbsp;&nbsp; --> Output: After running the given code, a folder named Extracted_Pics is created and snapshots taken from Video at every 5ms is saved.  
 
 
 
