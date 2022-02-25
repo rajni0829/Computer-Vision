@@ -23,6 +23,7 @@ Given an image, detect objects in the frame & predict their category class.
 
 
 - Approach-II : We have a data(where there's an image containing multiple objects) and we need to detect what are these objects from a single frame and to which class each belong.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Image of objects](/TASK-1/Method-1/DancingCat.gif)
 
 I've taken both the statements into consideration and tried implementing as per my understanding.
 
