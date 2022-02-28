@@ -24,13 +24,13 @@ Given an image, detect objects in the frame & predict their category class.
 Dataset has been splitted into training, testing and the image is pre-processed, trained for multiple images,then the image is passed on from Test Dataset which has single object and class of object can be predicted.   
 
 
-**Tech Stack Used :**   
+## Tech Stack Used :    
 --> Model: VGG16 – Convolutional Neural Network, OpenCv    
 --> Packages: Numpy, Glob, OpenCv, Ftp, MatplotLib, Keras, Tensorflow   
 --> Dataset: https://drive.google.com/file/d/15exOnwxii9NlPRxrkW03AFkncAmvNRnf/view?usp=sharing   
 
 
-References :  
+# References :  
 https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
 https://machinelearningmastery.com/object-recognition-with-deep-learning/  
 https://youtu.be/irHhDMbw3xo  
