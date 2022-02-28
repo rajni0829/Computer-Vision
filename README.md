@@ -1,5 +1,4 @@
-_**Consider Only Fisrt 2 files as Completed**_
-
+# Detecting Objects from Video
 ## TASK-I: 
 _Problem Statement: Given a video, figure out frames of interest & categories appearing in that micro-batch segment._  
 Since we're free to use any dataset, I've divided this section in 2 Methods.  
